@@ -1,6 +1,22 @@
 <h1 align="center">Hey Everyone 👋, I'm Shoaib Sheikh</h1>
-<!-- <div align="center"> <img src="https://github.com/Shoaibsheikh786/Shoaibsheikh786/blob/main/Youtube%20Channel%20Banner.png"> </div> -->
-<h3 align="center">A passionate DevOps Engineer and Automation Tester from India, specializing in Java Selenium automation. I also provide corporate training and have experience in the Corporate IT sector..</h3>
+
+<p align="center">
+<!--  <img src="https://github.com/Shoaibsheikh786/Shoaibsheikh786/blob/main/Youtube%20Channel%20Banner.png" alt="Banner"> -->
+</p>
+
+<h3 align="center">
+  A passionate <span style="color:#0073e6;">DevOps Engineer</span> and 
+  <span style="color:#f39c12;">Automation Tester</span> from India, specializing in Java Selenium automation. 
+  I also provide corporate training and have experience in the Corporate IT sector.
+</h3>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Front--End%20Developer-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Automation%20Tester-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/DevOps%20Engineer-orange?style=for-the-badge">
+</p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shoaibsheikh786&label=Profile%20views&color=0e75b6&style=flat" alt="Shoaibsheikh786" /> </p>
