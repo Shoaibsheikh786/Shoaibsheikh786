@@ -39,7 +39,11 @@
   <a href="https://github.com/allure-framework/allure2" target="_blank" rel="noreferrer"> 
     <img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" alt="allure-reporting" width="60" height="60"/> 
   </a>
+ <a href="https://rest-assured.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Shoaibsheikh786/Shoaibsheikh786/blob/main/restassuredpng.png" alt="rest-assured" width="60" height="60"/> 
+  </a>
 </p>
+
 
 <br><br>
 
@@ -59,6 +63,9 @@
   </a>
   <a href="https://www.learn-c.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> 
+  </a>
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Shoaibsheikh786/Shoaibsheikh786/blob/main/pythonpng.png" alt="python" width="60" height="60"/> 
   </a>
 </p>
 
@@ -91,7 +98,7 @@
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="60" height="60"/> 
   </a>
 </p>
-<br>
+<br><br>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shoaibsheikh786&show_icons=true&locale=en&layout=compact" alt="Shoaibsheikh786" /></p>
