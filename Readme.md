@@ -1,6 +1,6 @@
-<h1 align="center">Hey Everyone 👋, I'm Shoaib Sheikh</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=200&size=28&pause=1000&width=435&lines=Hey+Everyone+%F0%9F%91%8B+I'+m+Shoaib" alt="Typing SVG" /></a></h1>
 
-<p align="center">
+ 
 <!--  <img src="https://github.com/Shoaibsheikh786/Shoaibsheikh786/blob/main/Youtube%20Channel%20Banner.png" alt="Banner"> -->
 </p>
 
@@ -13,9 +13,12 @@
 ---
 
 <p align="center">
+<span style="pointer-events: none;">
   <img src="https://img.shields.io/badge/Front--End%20Developer-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Automation%20Tester-green?style=for-the-badge">
   <img src="https://img.shields.io/badge/DevOps%20Engineer-orange?style=for-the-badge">
+</span>
+
 </p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
